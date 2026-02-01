@@ -1,7 +1,5 @@
 ## About 📌
-🔍 ProxyChecker - Asynchronous Python tool for checking proxy validity. Reads proxy lists from text files from a folder, validates them via API (api.ipify.org), saves valid proxies to a file. Uses asyncio and aiohttp for high performance :zap:
-
-![logo](https://i.imgur.com/hkEfmxz.png)
+🔍 ProxyChecker - Asynchronous Python tool for checking proxy validity. Reads proxy lists from text files from a folder, validates them via API (api.ipify.org), saves valid proxies to a file. Uses asyncio and aiohttp for high performance.
 
 # Installation ☁️
 ```bash
@@ -20,4 +18,5 @@ python main.py
 #  Donation 💰
 * 📒 BTC: `bc1qqxzd80fgzqyy4wjfqsweplfmw3av7hxp07eevx`
 * 📘 ETH: `0x20be839c0b9d888e5DD153Cc55A4b93bb8496c48`
+
 * 📗 USDT (TRC20): `TY6SjeCBE4TRedVCbqk3XLqk5F4UMSGYqw`
